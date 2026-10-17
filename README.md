@@ -1,5 +1,9 @@
 # Buổi thực hành 2 - AMQP
 
+B23DCCN790 Nguyễn Quốc Thịnh
+B23DCCN710 Lê Tiến Sang
+
+
 ## 1. Broker
 
 - RabbitMQ local: `localhost:5672`
